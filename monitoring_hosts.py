@@ -10,4 +10,4 @@ class MonitoringHots:
 
 if __name__ == "__main__":
 
-    print('Init project')
+    print('Init projecto teste')
